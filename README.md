@@ -4,11 +4,6 @@ A full-stack web application that detects and highlights wetland regions in sate
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](./assets/demo.png) <!-- Replace with your actual image path -->
-
----
 
 ## 🚀 Features
 
@@ -129,14 +124,3 @@ MIT License
 * [U-Net Architecture](https://arxiv.org/abs/1505.04597)
 * OpenCV, NumPy, Flask, React contributors
 
-```
-
----
-
-### 🔄 Next Step:
-Would you like me to:
-- Export this as a downloadable `README.md` file?
-- Help you link to demo images, deploy the app, or host model files?
-
-Let me know!
-```
