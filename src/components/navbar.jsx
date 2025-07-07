@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../templates/navbar.css"
+import "../styles/navbar.css"
 
 
 const Navbar = () => {
@@ -7,7 +7,7 @@ const Navbar = () => {
 
     return (
         <nav className="navbar">
-            <div className="logo"> Wetland & Dryland Detector</div>
+            <div className="logo"> <h2>Wetland & Dryland Detector</h2> </div>
 
             <div className="menu">
                 {/* Dropdown for Tools */}
@@ -25,9 +25,9 @@ const Navbar = () => {
                         </div>
                     )}
                 </div>
-                <a href="#" className="menu-item">API</a>
-                <a href="#" className="menu-item">Home</a>
-                <a href="#" className="menu-item">Contacts</a>
+                <a href="/" className="menu-item">API</a>
+                <a href="/" className="menu-item">Home</a>
+                <a href="/" className="menu-item">Contacts</a>
                 <button className="sign-btn">Sign-in / Sign-up</button>
             </div>
         </nav>
