@@ -1,8 +1,3 @@
-Absolutely! Here's a complete and well-structured `README.md` file tailored for your **Wetland Detection from Satellite Imagery** project. It's designed for showcasing on your GitHub profile to attract recruiters, collaborators, or contributors.
-
----
-
-```markdown
 # 🛰️ Wetland Detection from Satellite Imagery 🌿
 
 A full-stack web application that detects and highlights wetland regions in satellite images using a U-Net deep learning model. The system enables users to upload satellite images, processes them in the backend using image segmentation techniques, and returns plotted results with analytical insights — all through a clean, responsive web interface.
@@ -39,21 +34,31 @@ A full-stack web application that detects and highlights wetland regions in sate
 
 ```
 
-├── frontend/
-│   ├── components/
-│   │   ├── FileUpload.js
-│   │   ├── Result.js
-│   ├── styles/
-│   │   └── FileUpload.css
-│   └── App.js
+├── wetland-detector-project/
 ├── backend/
-│   ├── app.py
-│   ├── model/
-│   │   └── unet\_model.py
-│   ├── uploads/
-│   ├── results/
-│   └── plotedresults/
-
+│ ├── model/
+│ │ ├── final_wetland_unet.h5
+│ │ ├── unet_training.py
+│ │ ├── wetland_unet.h5
+│ │ ├── train_images/
+│ │ └── train_masks/
+│ ├── plotedresults/
+│ ├── results/
+│ ├── uploads/
+│ └── app.py
+│
+├── src/
+│ ├── assets/
+│ ├── components/ # FileUpload, Dropzone, etc.
+│ ├── pages/ # Result.js, UploadPage.js
+│ ├── styles/ # FileUpload.css, Result.css
+│ ├── App.js
+│ ├── index.js
+│ └── ...
+│
+├── public/
+├── package.json
+└── README.md
 ````
 
 ---
@@ -80,7 +85,7 @@ python app.py
 ### 🌐 Frontend (React)
 
 ```bash
-cd frontend
+cd src
 npm install
 npm start
 ```
@@ -112,10 +117,9 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-* **\[Your Name]**
-* 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-* 📧 [Email](mailto:your@email.com)
-* 🌐 [Portfolio](https://your-portfolio.com)
+* **\[Devjit Chowdury]**
+* 💼 [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248)
+* 📧 [Email](devjitchowdhury2003@gmail.com)
 
 ---
 
