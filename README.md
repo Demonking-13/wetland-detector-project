@@ -104,15 +104,11 @@ To create an intelligent, accessible, and automated system that analyzes satelli
 
 ---
 
-## 📄 License
 
-MIT License
-
----
 
 ## 🙋‍♂️ Author
 
-* **\[Devjit Chowdury]**
+* **\Devjit Chowdury**
 * 💼 [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248)
 * 📧 [Email](devjitchowdhury2003@gmail.com)
 
@@ -120,7 +116,7 @@ MIT License
 
 ## 🌟 Acknowledgements
 
-* \[Kaggle Datasets for Satellite Imagery]
-* [U-Net Architecture](https://arxiv.org/abs/1505.04597)
+* \Kaggle Datasets for Satellite Imagery
+* U-Net Architecture(https://arxiv.org/abs/1505.04597)
 * OpenCV, NumPy, Flask, React contributors
 
