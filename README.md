@@ -106,17 +106,16 @@ To create an intelligent, accessible, and automated system that analyzes satelli
 
 
 
-## 🙋‍♂️ Author
+## 👨‍💻 Author
 
-* **\Devjit Chowdury**
-* 💼 [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248)
-* 📧 [Email](devjitchowdhury2003@gmail.com)
+**Devjit chowdhury**
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248/) | [GitHub](https://github.com/Demonking-13) | [Gmail](devjitchowdhury2003@gmail.com
 
 ---
 
 ## 🌟 Acknowledgements
 
-* \Kaggle Datasets for Satellite Imagery
+* Kaggle Datasets for Satellite Imagery
 * U-Net Architecture(https://arxiv.org/abs/1505.04597)
 * OpenCV, NumPy, Flask, React contributors
 
